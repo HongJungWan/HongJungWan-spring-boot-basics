@@ -1,3 +1,4 @@
+/*
 package hello.core.xml;
 
 import hello.core.member.MemberService;
@@ -17,3 +18,4 @@ public class XmlAppContext {
         assertThat(memberService).isInstanceOf(MemberService.class);
     }
 }
+*/
